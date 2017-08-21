@@ -34,4 +34,4 @@ Enjoy games
 
 ## Author
 
-* **Noni Manzano** - *creator* - [LinkedIn](linkedin.com/in/noni-manzano)
+* **Noni Manzano** - *creator* - [LinkedIn](https://www.linkedin.com/in/noni-manzano)
