@@ -15,7 +15,7 @@ Too many incorrect choices and the game is lost!
 
 ## Example
 
-![alt text](Images/example.gif)
+![alt text](http://www.giphy.com/gifs/3owvKhNqy245u90yuA)
 
 ## Getting Started
 
