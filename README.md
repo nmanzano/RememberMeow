@@ -5,7 +5,7 @@ Remember Meow was the first App I ever created!
 While attending Galvanize, my coding bootcamp, we were given an assignment to create our first app just after 4 weeks of lessons. 
 Within that time I had learned HTML, CSS, JavaScript and jQuery.
 
-I used this new learned knowledge to create a memory game that has a cat theme. 
+I used this new knowledge to create a memory game that has a cat theme. 
 
 ## How the game works
 
